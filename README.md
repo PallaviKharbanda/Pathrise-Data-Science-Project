@@ -1,9 +1,9 @@
-# Pathrise-Data-Science-Project
+## Pathrise-Data-Science-Project
 
-This project aims to improve the effectiveness of Pathrise Admission process.
+This project aims to analyze the effectiveness of Pathrise Admission process and  making recommendations for improvement.
 The two main business problems targeted are whether a fellow will be placed at pathrise and how long the placement can be done.
 
-## Methodolgy
+### Methodolgy
  Step 1 : Import the libraries and dataset
 
  Step 2 : See DataFrame and show basic info and statistical interference about the dataset
@@ -24,7 +24,7 @@ The two main business problems targeted are whether a fellow will be placed at p
     
  Step 10 : Conclusion
 
-## Conclusion (Problem Statement 2)
+### Conclusion 
 The model predicts that out of 1506 candidates who are either active or have/had continued enrollement with pathrise, 1490 candidates will get/would have been placed ultimately at a company based on their attributes.
 Also, we conclude that 70% fellows are placed in first 6 months of their enrollment (35% in first three months, 35% in 3-6 months).
 A very less percentage(0.008) of candidates will take more than an year to get placed. Hence we can easily conclude that Pathrise is doing well in placement of 
